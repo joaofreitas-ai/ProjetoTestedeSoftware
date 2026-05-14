@@ -138,7 +138,7 @@ O projeto contém:
 
 ## Integrantes
 
-- joão Eduardo Santos
+- João Eduardo Santos
 - Mateus Almeida Bonfim
 - Peter Moreira Marins
 
